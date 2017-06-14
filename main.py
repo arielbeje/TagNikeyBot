@@ -3,8 +3,8 @@ import asyncio
 
 client = discord.Client()
 
-def yourID="" #Get this id by using /@yourname and copying only the numbers
-def NikeyID="" #Get this id by using /@Nikey and copying the whole message, including the <, @, >
+def yourID="" #Get this id by using \@yourname and copying only the numbers
+def NikeyID="" #Get this id by using \@Nikey and copying the whole message, including the <, @, >
 
 @client.event
 async def on_message (message):
