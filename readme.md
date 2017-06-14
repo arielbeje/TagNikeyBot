@@ -8,6 +8,8 @@ I decided to end his reign as a hard to mention person, and make a bot to easily
 
 [Discord.py](https://github.com/Rapptz/discord.py)
 
+[asyncio](https://pypi.python.org/pypi/asyncio)
+
 # Guide
 If you're on Windows, run run.bat file.
 
